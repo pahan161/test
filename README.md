@@ -16,4 +16,6 @@ Microsoft Office, Zoom, Skype, 1С – как примеры популярны�
 - Система может быть неисправна только 30 минут за месяц (30 календарных дней).
 ## 3(C) ##
 ![Diagram](https://github.com/pahan161/test/blob/main/bpmn.drawio.png)
+## 3(b) ##
+![Diagram](https://github.com/pahan161/test/blob/main/bpmn(b).drawio.png)
 
