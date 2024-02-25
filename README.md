@@ -17,5 +17,5 @@ Microsoft Office, Zoom, Skype, 1С – как примеры популярны�
 ## 3(C) ##
 ![Diagram](https://github.com/pahan161/test/blob/main/bpmn.drawio.png)
 ## 3(b) ##
-![Diagram]([[https://github.com/pahan161/test/blob/main/bpmn(b).drawio.png](https://github.com/pahan161/test/blob/main/bpnm(b).drawio.png)https://github.com/pahan161/test/blob/main/bpnm(b).drawio.png](https://github.com/pahan161/test/blob/main/bpnm(b).drawio.png)https://github.com/pahan161/test/blob/main/bpnm(b).drawio.png)
+![Diagram](https://github.com/pahan161/test/blob/main/bpmn.drawio.png)
 
